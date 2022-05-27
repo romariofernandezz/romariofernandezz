@@ -1,7 +1,7 @@
 # Hi there 👋
 
-- 🔭 Today I work as a frontend trainee
-- 🌱 I’m currently learning Angular,Java and MySQL ...
+- 🔭 Today I work as a trainee
+- 🌱 I’m currently learning Java and MySQL ...
 
 <div align="center">
   <a href="https://github.com/romariofernandezz">
