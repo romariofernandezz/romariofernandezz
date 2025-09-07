@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 🔭 Today I work as a JR Analyst
-- 🌱 I’m currently learning Java and PLSQL ...
+- 🌱 I’m currently learning SQL and Python ...
 
 <div align="center">
   <a href="https://github.com/romariofernandezz">
