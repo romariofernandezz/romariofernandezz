@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🔭 Today I work as a DBA PL/SQL Oracle
+- 🔭 Today I work as a JR Analyst
 - 🌱 I’m currently learning Java and PLSQL ...
 
 <div align="center">
